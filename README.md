@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alkomalymohamed@gmail.com**
 
-- ⚡ Fun fact  I like to learn something in programming every day.**
+- ⚡ Fun fact  I like to learn something in programming every day.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedAhmed2023)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
