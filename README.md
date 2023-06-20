@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm I'm Mohamed Ahmed (alkomali)</h1>
+<h1 align="center">Hello there 👋, I'm Mohamed Ahmed (alkomali)</h1>
 <h3 align="center">Front End Developer and UI\UX designer student at sinai university, faculty of information technology understand HTML,CSS and Javascript, extremely desire for challenging projects and I have experience dealing with programming and modern web technologies also learning opportunaties looking for internship or work .</h3>
 
 - 🔭 I’m currently learning **MERN Stack**
