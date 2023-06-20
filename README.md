@@ -10,7 +10,6 @@
 - 📫 How to reach me **alkomalymohamed@gmail.com**
 
 - ⚡ Fun fact  I like to learn something in programming every day.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedAhmed2023)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/mohamed-alkomali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mohamed-alkomali" height="30" width="40" /></a>
