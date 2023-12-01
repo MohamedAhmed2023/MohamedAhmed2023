@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Mohamed Ahmed (alkomali)</h1>
-<h3 align="center">Front end developer and ui\ux designer student at sinai university, faculty of information technology understand HTML,CSS and Javascript, extremely desire for challenging projects and I have experience dealing with programming and modern web technologies also learning opportunaties looking for internship or work .</h3>
+<h3 align="center">Front end developer and ui\ux designer student at sinai university, faculty of information technology understand HTML,CSS and Javascript, extremely desire for challenging projects and I have experience dealing with programming and modern web technologies also learning opportunaties.</h3>
 
 - 🔭 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mohamedahmed2023.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://alkomali.netlify.app/)
 
-- 💬 Ask me about **react , java script**
+- 💬 Ask me about **ReactjS , java script**
 
 - 📫 How to reach me **alkomalymohamed@gmail.com**
 
