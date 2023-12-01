@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alkomali.netlify.app/)
 
-- 💬 Ask me about **ReactjS , java script**
+- 💬 Ask me about **ReactJs , java script**
 
 - 📫 How to reach me **alkomalymohamed@gmail.com**
 
