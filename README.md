@@ -1,6 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Mohamed alkomali</h1>
-<h3 align="center">Front End Developer And UI\UX Designer, Student at Sinai University, Faculty of Information
-Technology and Computer Science.</h3>
+<h3 align="center">Software Engineer, And I Work as A Frontend Developer Graduated From Sinai University, Faculty Of Information Technology.</h3>
 
 - 🔭 I’m currently learning **MERN Stack**
 
